@@ -1,0 +1,1 @@
+{"periodo":"03-2026","metrica_gini":"Gini de km por bus (0=trabajo repartido, 1=concentrado)","lineas":{"3":{"nombre":"Relún - Centro","n_buses":13,"km":426505.0,"excesos":90,"exc100":0.02,"gini":0.253},"4":{"nombre":"Ñancul - Segunda Faja","n_buses":15,"km":542525.0,"excesos":2166,"exc100":0.4,"gini":0.172}}}
